@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is newfile.
+=======
+This is online edit file.
+>>>>>>> 2953625e9f77c0aa9aad7d0922e028fb245ae35e
